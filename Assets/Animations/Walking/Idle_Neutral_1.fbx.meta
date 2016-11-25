@@ -191,8 +191,8 @@ ModelImporter:
     - serializedVersion: 16
       name: Idle
       takeName: _87_88_a_U1_M_P_idle_Neutral__Fb_p0_No_0_PJ_1
-      firstFrame: 437
-      lastFrame: 1667
+      firstFrame: 226
+      lastFrame: 742
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
