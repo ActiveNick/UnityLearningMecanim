@@ -179,8 +179,24 @@ ModelImporter:
       be ignored, but current Configuration needs to be fixed:\n\tTransform 'Pivot'
       not found in HumanDescription.\nCopied Avatar Rig Configuration mis-match. Bone
       length in copied configuration does not match position in animation file\nIdle_Neutral_1"
-    animationRetargetingWarnings: 
-    animationDoRetargetingWarnings: 0
+    animationRetargetingWarnings: "\nRetargeting quality report for clip '_87_88_a_U1_M_P_idle_Neutral__Fb_p0_No_0_PJ_1':\n\tLeftLowerLeg
+      average position error 7.7 mm and maximum position error 8.0 mm at time 48:
+      2 (43.2%) Frame 1442\n\tLeftFoot average position error 22.2 mm and maximum
+      position error 22.6 mm at time 38:10 (34.1%) Frame 1150\n\tRightLowerLeg average
+      position error 8.0 mm and maximum position error 11.3 mm at time 62: 3 (56.2%)
+      Frame 1863\n\tRightFoot average position error 22.4 mm and maximum position
+      error 22.8 mm at time 104:11 (95.5%) Frame 3131\n\tLeftUpperArm average position
+      error 24.5 mm and maximum position error 25.1 mm at time 70:21 (64.2%) Frame
+      2121\n\tLeftLowerArm average position error 24.5 mm and maximum position error
+      25.2 mm at time 70:22 (64.2%) Frame 2122\n\tLeftHand average position error
+      24.7 mm and maximum position error 25.3 mm at time 70:22 (64.2%) Frame 2122\n\tRightUpperArm
+      average position error 24.7 mm and maximum position error 29.9 mm at time 62:26
+      (56.9%) Frame 1886\n\tRightLowerArm average position error 24.6 mm and maximum
+      position error 27.5 mm at time 62:26 (56.9%) Frame 1886\n\tRightHand average
+      position error 24.7 mm and maximum position error 30.8 mm at time 62:25 (56.9%)
+      Frame 1885\n\tHead average position error 23.3 mm and maximum position error
+      38.9 mm at time 10: 3 (7.8%) Frame 303\n"
+    animationDoRetargetingWarnings: 1
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -191,8 +207,8 @@ ModelImporter:
     - serializedVersion: 16
       name: Idle
       takeName: _87_88_a_U1_M_P_idle_Neutral__Fb_p0_No_0_PJ_1
-      firstFrame: 226
-      lastFrame: 742
+      firstFrame: 437
+      lastFrame: 1667
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -203,7 +219,7 @@ ModelImporter:
       loopBlend: 1
       loopBlendOrientation: 1
       loopBlendPositionY: 1
-      loopBlendPositionXZ: 0
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
