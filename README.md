@@ -1,6 +1,8 @@
 # UnityLearningMecanim
 I'm learning animations in Unity 5 using Mecanim, and this is my playground to test humanoid animations. My starting point was this great [Live Training video](https://www.youtube.com/watch?v=wf6vtCgLk6w) from Nov. 11, 2015: Setting up a Humanoid Avatar.
 
+**Unity version: 5.5.0f2 Preview**
+
 ## Assets
 This demo makes use of the following assets from the Unity Asset Store:
 * [Raw Mocap Data for Mecanim](https://www.assetstore.unity3d.com/en/#!/content/5330)

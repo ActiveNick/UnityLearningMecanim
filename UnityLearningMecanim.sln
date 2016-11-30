@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLearningMecanim.CSharp", "UnityLearningMecanim.CSharp.csproj", "{6520421A-0917-B2A2-F336-C23BB942DF76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLearningMecanim", "UnityLearningMecanim.csproj", "{E4B2DFC4-F536-E23A-AABF-BDE382B304A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6520421A-0917-B2A2-F336-C23BB942DF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6520421A-0917-B2A2-F336-C23BB942DF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6520421A-0917-B2A2-F336-C23BB942DF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6520421A-0917-B2A2-F336-C23BB942DF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B2DFC4-F536-E23A-AABF-BDE382B304A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B2DFC4-F536-E23A-AABF-BDE382B304A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B2DFC4-F536-E23A-AABF-BDE382B304A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B2DFC4-F536-E23A-AABF-BDE382B304A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
